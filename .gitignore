@@ -1,3 +1,5 @@
 /venv/
 commands
 .idea
+__pycache__
+router/__pycache__
